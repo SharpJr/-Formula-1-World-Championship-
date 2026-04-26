@@ -904,4 +904,4 @@ F1_Analytics_Project/
 
 *Dataset source: Ergast Developer API | F1 data from 1950–2026*  
 *Documentation standard: Analytics Engineering best practices*  
-*Last updated: 2026*
+*Last updated: 2026 Sharp Jr*
